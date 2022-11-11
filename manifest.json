@@ -1,0 +1,18 @@
+{
+
+  "manifest_version": 2,
+  "name": "hymnologica.cz Extension",
+  "version": "1.0",
+
+  "description": "editorial productivity hacks",
+
+  "content_scripts": [
+    {
+      "matches": [
+        "*://hymnologica.cz/*"
+      ],
+      "js": ["extension.js"]
+    }
+  ]
+
+}
