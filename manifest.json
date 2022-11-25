@@ -11,7 +11,8 @@
       "matches": [
         "*://hymnologica.cz/*"
       ],
-      "js": ["extension.js"]
+      "js": ["extension.js"],
+      "css": ["style.css"]
     }
   ]
 

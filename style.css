@@ -1,0 +1,12 @@
+/* have the save button always at hand, however long the page is */
+#edit-actions {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 10px 50px 10px 10px;
+    text-align: center;
+}
+
+footer {
+    margin-bottom: 100px; /* prevent being hidden by the position-fixed buttons */
+}
