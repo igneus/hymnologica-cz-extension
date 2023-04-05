@@ -5,6 +5,10 @@
     right: 0;
     padding: 10px 50px 10px 10px;
     text-align: center;
+    background-color: rgba(230, 230, 230, 0.7);
+    border: 1px dotted #333;
+    border-radius: 5px;
+    z-index: 50;
 }
 
 footer {
